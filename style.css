@@ -1,0 +1,23 @@
+html {
+    background-color: black;
+    font-family: Helvetica;
+}
+
+body {
+    color: white;
+}
+
+
+section, header, footer {
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+header {
+    font-family: 'Euphoria Script';
+    font-size: 50px;
+}
+
+h1 {
+    font-size: 50px;
+}
